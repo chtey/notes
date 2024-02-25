@@ -4,3 +4,8 @@
 ```
 git add .
 ```
+
+```mermaid
+flowchart TD
+    Start --> Stop
+```
